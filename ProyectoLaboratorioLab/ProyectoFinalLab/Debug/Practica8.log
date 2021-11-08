@@ -1,0 +1,28 @@
+﻿  Anim.cpp
+C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Practica8\Anim.cpp(207,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Practica8\Anim.cpp(236,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Practica8\Anim.cpp(237,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Practica8\Anim.cpp(238,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Practica8\Anim.cpp(433,17): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Practica8\Anim.cpp(439,17): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Practica8\Anim.cpp(445,21): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Practica8\Anim.cpp(451,21): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Practica8\Anim.cpp(621,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Practica8\Anim.cpp(622,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Practica8\Anim.cpp(626,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Practica8\Anim.cpp(627,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Practica8\Anim.cpp(629,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Practica8\Anim.cpp(630,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Practica8.vcxproj -> C:\Users\Work\Documents\Escuela\11Semestre\Lab Compu\Practica8\Practica8\Debug\Practica8.exe
